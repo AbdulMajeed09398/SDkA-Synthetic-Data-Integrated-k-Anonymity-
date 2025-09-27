@@ -10,7 +10,7 @@ There are two key modules in the proposed DCLD model.
 <br>
 In this module, the data to be anonymized is pre-processed to make it anonymization-ready. This work innovates the existing work and amalgamates synthetic data with real data to address the distribution imbalance problem. When the class imbalance problem is addressed then the constraints regarding SA values and distributions are effectively met whereas most of the existing methods do not fix this problem, leading to two crucial design problems (i.e., expose privacy or leave many records un-processed).**
 <br>
-2- Level-1 Anonymization
+2- Level-0/1 Anonymization
 <br>
 In this module, minimal necessary anonymization is applied to curate high-quality data. Specifically, the population-level information is abstracted and minimal necessary generalization is applied. It is worth noting that privacy is not risked due to minimal generalization as there exists higher uncertainty in the SA column due to synthetic data addition.
 <br>
