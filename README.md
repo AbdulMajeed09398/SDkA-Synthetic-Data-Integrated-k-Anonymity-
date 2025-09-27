@@ -15,7 +15,7 @@ In this module, the data to be anonymized is pre-processed to make it anonymizat
 In this module, minimal necessary anonymization is applied to curate high-quality data. Specifically, the population-level information is abstracted and minimal necessary generalization is applied. It is worth noting that privacy is not risked due to minimal generalization as there exists higher uncertainty in the SA column due to synthetic data addition.
 <br>
 .....
-Next, we provide the details of the implementation that can help the re-implementation of the proposed model.
+Next, we provide the details of the implementation that can help the re-implementation of the proposed SDkA model.
 
 **Dataset used in Experimentation**
 
