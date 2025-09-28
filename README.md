@@ -52,7 +52,7 @@ Below, we provide the code information that can help understand the implementati
 [^2]: The information/details about the generalization heirarchies (https://www.sciencedirect.com/science/article/pii/S2667305323000923). 
 
 
-**Citing DCLD**
+**Citing SDkA**
 
 If you use the SDka implementation, please cite the following work:
 
