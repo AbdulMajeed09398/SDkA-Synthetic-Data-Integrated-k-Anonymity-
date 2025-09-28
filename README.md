@@ -19,7 +19,7 @@ Next, we provide the details of the implementation that can help the re-implemen
 
 **Dataset used in Experimentation**
 
-Four real-world publicly available datasets have been used to evaluate the effectiveness of the proposed DCLD.
+Two real-world publicly available datasets have been used to evaluate the effectiveness of the proposed SDkA model.
 
 1-Adult dataset
 
