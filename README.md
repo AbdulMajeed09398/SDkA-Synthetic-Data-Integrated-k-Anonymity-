@@ -6,9 +6,9 @@ Main Modules of the proposed SDkA
 <br>
 There are two key modules in the proposed DCLD model.
 <br>
-1- Data Pre-processing
+1- Data Preparation
 <br>
-In this module, the data to be anonymized is pre-processed to make it anonymization-ready. This work innovates the existing work and amalgamates synthetic data with real data to address the distribution imbalance problem. When the class imbalance problem is addressed then the constraints regarding SA values and distributions are effectively met whereas most of the existing methods do not fix this problem, leading to two crucial design problems (i.e., expose privacy or leave many records un-processed).**
+In this module, the data to be anonymized is prepared to make it anonymization-ready. This work innovates the existing work and amalgamates synthetic data with real data to address the distribution imbalance problem. When the class imbalance problem is addressed then the constraints regarding SA values and distributions are effectively met whereas most of the existing methods do not fix this problem, leading to two crucial design problems (i.e., expose privacy or encurs high information loss due to over-anonymization).**
 <br>
 2- Level-0/1 Anonymization
 <br>
