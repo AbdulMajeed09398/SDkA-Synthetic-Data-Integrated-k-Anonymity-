@@ -4,7 +4,7 @@ This repository provides implementation of SDkA model.
 
 Main Modules of the proposed SDkA 
 <br>
-There are two key modules in the proposed DCLD model.
+There are two key modules in the proposed SDkA model.
 <br>
 1- Data Preparation
 <br>
